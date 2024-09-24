@@ -1,7 +1,9 @@
 
 
+---
+
 # 💫 About Me:
-👋 Hi, I'm Dunamix! A passionate software engineer from Nigeria, specializing in Python, Django, React, and more. I thrive on building innovative web apps and tackling complex coding challenges. Fun fact: I once tried to teach my cat to code—didn’t work out, but we both learned a lot about patience! 😸 When I'm not coding, you'll find me exploring new tech trends or diving into data science. Currently working on a Google Classroom-like app with social features. Always eager to connect and collaborate on exciting projects. Let’s code something amazing together! 🚀
+👋 Hi, I'm Dunamix! A passionate software engineer from Nigeria, specializing in Python, Django, React, and more. I started coding at 8, and ever since then, it's been a journey of constant learning and building innovative web apps. I’m currently working on a Google Classroom-like app with social features and always exploring new tech, including data science and Julia programming. Eager to connect and collaborate on exciting projects. Let’s code something amazing together! 🚀
 
 ---
 
@@ -10,7 +12,8 @@
 ### 🖥️ **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ### 🌐 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -63,4 +66,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Techwithdunamix&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Techwithdunamix&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techwithdunamix&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
 
