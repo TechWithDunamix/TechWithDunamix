@@ -30,13 +30,13 @@ I am dedicated to fostering an open-source ecosystem where developers can collab
 
 ## Connect With Me
 - **GitHub**: [@TechWithDunamix](https://github.com/TechWithDunamix)
-- **LinkedIn**: [Dunamis](https://linkedin.com/in/dunamis)
+- **Medium**: [Techwithdunamix](https://medium.com/@techwithdunamix)
 
 ## Nexios Repository
-Check out the official Nexios repository: [Nexios on GitHub](https://github.com/TechWithDunamix/Nexios)
+Check out the official Nexios repository: [Nexios on GitHub](https://github.com/nexios-labs/Nexios)
 
 ## Get Involved
 If you're passionate about open-source development, consider contributing to Nexios or collaborating on future projects. Your support helps drive innovation and build a stronger developer community.
 
->"The best way to learn tech is to break things—just make sure you know how to fix them!"** 🚀
+>"The best way to learn tech is to break things—just make sure you know how to fix them!" 🚀
 
