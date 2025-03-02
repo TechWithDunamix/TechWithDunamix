@@ -40,3 +40,5 @@ If you're passionate about open-source development, consider contributing to Nex
 
 >"The best way to learn tech is to break things—just make sure you know how to fix them!" 🚀
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techwithdunamix&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/techwithdunamix/github-readme-activity-graph)
+
