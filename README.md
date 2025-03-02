@@ -2,6 +2,7 @@
 # Dunamis | Creator of Nexios  
 ### Senior Engineer at [Buzzbuntu.com](https://app.buzzbuntu.com)  
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical&no-bg=true)
 
 Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of **[Nexios](https://github.com/TechWithDunamix/Nexios)**, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
 
@@ -24,6 +25,8 @@ def home(req, res):
 ## GitHub Stats
 ![Dunamis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithDunamix&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithDunamix&layout=compact&theme=radical)
+![Dunamis' GitHub Streak](https://streak-stats.demolab.com/?user=TechWithDunamix&theme=radical&hide_border=true)
+
 
 ## Open Source Community
 I am dedicated to fostering an open-source ecosystem where developers can collaborate, contribute, and grow together. If you're interested in Python, backend development, or open-source projects, let's connect!
@@ -41,4 +44,9 @@ If you're passionate about open-source development, consider contributing to Nex
 >"The best way to learn tech is to break things—just make sure you know how to fix them!" 🚀
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techwithdunamix&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/techwithdunamix/github-readme-activity-graph)
+
+![Dunamis' GitHub Streak](https://streak-stats.demolab.com/?user=TechWithDunamix&theme=radical&hide_border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Metrics](https://github.com/TechWithDunamix/TechWithDunamix/blob/main/github-metrics.svg)
+
 
