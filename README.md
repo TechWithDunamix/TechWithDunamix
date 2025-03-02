@@ -45,8 +45,6 @@ If you're passionate about open-source development, consider contributing to Nex
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techwithdunamix&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/techwithdunamix/github-readme-activity-graph)
 
-![Dunamis' GitHub Streak](https://streak-stats.demolab.com/?user=TechWithDunamix&theme=radical&hide_border=true)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Metrics](https://github.com/TechWithDunamix/TechWithDunamix/blob/main/github-metrics.svg)
 
 
