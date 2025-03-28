@@ -1,5 +1,5 @@
 
-# Dunamis | Creator of Nexios  
+# Dunamix | Creator of Nexios  
 ### Senior Engineer at [Buzzbuntu.com](https://app.buzzbuntu.com)  
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical&no-bg=true)
