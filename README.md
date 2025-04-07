@@ -2,7 +2,7 @@
 # Dunamix | Creator of Nexios  
 ### Senior Engineer at [Buzzbuntu.com](https://app.buzzbuntu.com)  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical)
 
 Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of **[Nexios](https://github.com/TechWithDunamix/Nexios)**, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
 
