@@ -6,6 +6,7 @@
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/techwithdul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical)
 
 Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of **[Nexios](https://github.com/TechWithDunamix/Nexios)**, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
