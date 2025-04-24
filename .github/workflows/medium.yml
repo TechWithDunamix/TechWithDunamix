@@ -15,3 +15,15 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@techwithdunamix"
+        
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push updates to README
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/TechWithDunamix/TechWithDunamix.git
+          git add README.md
+          git commit -m "Updated with the latest blog posts"
+          git push origin main
