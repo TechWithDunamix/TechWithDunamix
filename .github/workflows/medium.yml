@@ -18,8 +18,8 @@ jobs:
         
       - name: Set up Git user
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Chidbele Dunamis"  # Your GitHub username
+          git config --global user.email "techwithdunamix@example.com"  # Your GitHub email address
 
       - name: Push updates to README
         run: |
