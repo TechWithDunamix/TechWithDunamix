@@ -6,6 +6,9 @@
   <strong style="font-size: 1.2rem; font-weight: 600;">Dunamix | Creator of Nexios</strong>
 </p>
 
+
+
+
 <p align="center">
   <strong style="font-size: 1.5rem;">My Stack</strong>
 </p>
@@ -67,6 +70,11 @@ def home(req, res):
     return res.json({'message': 'Welcome to Nexios!'})
 
 ```
+## Feature Project 
+- [Nexios](https://github.com/nexios-labs/Nexios) Nexios is a lightweight, high-performance ASGI web framework for Python—built for speed, simplicity, and flexibility. Inspired by Express.js, Nexios lets you build APIs fast, with first-class async support, custom auth backends, and zero boilerplate. Perfect for devs who want full control without the Django overhead.
+- [Nexios Genrics](https://github.com/nexios-labs/nexios-generics) NexiosGeneric is a class-based CRUD wrapper for Nexios, combining the power of Pydantic and Tortoise ORM. It simplifies building async APIs with automatic serialization, validation, and database operations—ideal for fast, scalable RESTful endpoints.
+
+
 
 📝 Latest from Medium
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
