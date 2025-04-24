@@ -1,13 +1,76 @@
 
-# Dunamix | Creator of Nexios  
-### Senior Engineer at [Buzzbuntu.com](https://app.buzzbuntu.com)  
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/techwithdul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-</ul>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/144450118?v=4" 
+       width="200" 
+       style="border-radius: 100px;"/>
+</p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TechWithDunamix&theme=radical)
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  ">
+    Dunamix | Creator of Nexios
+  </div>
+</div>
+
+
+
+
+<p align="center">
+  <strong style="font-size: 1.5rem;"> My Stack</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/>
+      Django
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
+      PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/><br/>
+      Redis
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of **[Nexios](https://github.com/TechWithDunamix/Nexios)**, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
 
@@ -27,29 +90,8 @@ def home(req, res):
 
 ```
 
-## GitHub Stats
-![Dunamis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithDunamix&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithDunamix&layout=compact&theme=radical)
-![Dunamis' GitHub Streak](https://streak-stats.demolab.com/?user=TechWithDunamix&theme=radical&hide_border=true)
 
-
-## Open Source Community
-I am dedicated to fostering an open-source ecosystem where developers can collaborate, contribute, and grow together. If you're interested in Python, backend development, or open-source projects, let's connect!
-
-## Connect With Me
-- **GitHub**: [@TechWithDunamix](https://github.com/TechWithDunamix)
-- **Medium**: [Techwithdunamix](https://medium.com/@techwithdunamix)
-
-## Nexios Repository
-Check out the official Nexios repository: [Nexios on GitHub](https://github.com/nexios-labs/Nexios)
-
-## Get Involved
-If you're passionate about open-source development, consider contributing to Nexios or collaborating on future projects. Your support helps drive innovation and build a stronger developer community.
-
->"The best way to learn tech is to break things—just make sure you know how to fix them!" 🚀
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techwithdunamix&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/techwithdunamix/github-readme-activity-graph)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### 📝 Latest from Medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
