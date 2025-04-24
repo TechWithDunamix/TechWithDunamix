@@ -1,31 +1,13 @@
-
-
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/144450118?v=4" 
-       width="200" 
-       style="border-radius: 100px;"/>
+  <img src="https://avatars.githubusercontent.com/u/144450118?v=4" width="200" style="border-radius: 100px;"/>
 </p>
 
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="
-    padding: 12px 24px;
-    border-radius: 12px;
-    font-family: sans-serif;
-    font-size: 1.2rem;
-    font-weight: 600;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  ">
-    Dunamix | Creator of Nexios
-  </div>
-</div>
-
-
-
+<p align="center">
+  <strong style="font-size: 1.2rem; font-weight: 600;">Dunamix | Creator of Nexios</strong>
+</p>
 
 <p align="center">
-  <strong style="font-size: 1.5rem;"> My Stack</strong>
+  <strong style="font-size: 1.5rem;">My Stack</strong>
 </p>
 
 <table align="center">
@@ -67,12 +49,9 @@
   </tr>
 </table>
 
-
-
-
-
-
-Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of **[Nexios](https://github.com/TechWithDunamix/Nexios)**, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
+<p align="center">
+  Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of <strong><a href="https://github.com/TechWithDunamix/Nexios">Nexios</a></strong>, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
+</p>
 
 ## Nexios: A Modern Python Framework
 Nexios is a high-performance, developer-friendly Python framework tailored for API development, authentication, and scalable applications.
@@ -87,11 +66,7 @@ app = get_application()
 def home(req, res):
     return res.json({'message': 'Welcome to Nexios!'})
 
-
 ```
 
-
-### 📝 Latest from Medium
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+📝 Latest from Medium
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
