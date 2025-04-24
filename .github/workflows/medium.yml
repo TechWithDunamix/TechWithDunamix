@@ -5,6 +5,10 @@ on:
     - cron: '0 */12 * * *' # Runs every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write # Allows the workflow to push changes to the repository
+  id-token: write # Required for authentication with the GitHub token
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
