@@ -53,7 +53,7 @@
 </table>
 
 <p align="center">
-  Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of <strong><a href="https://github.com/TechWithDunamix/Nexios">Nexios</a></strong>, a Python framework designed for simplicity and efficiency. I am also actively building an open-source community to foster collaboration and innovation in software development.
+  Hi 👋, I'm Chidbele Dunamis, a software engineer and the creator of <strong><a href="https://github.com/nexios-labs/Nexios">Nexios</a></strong>(a Python framework designed for simplicity and efficiency) ,  <strong><a href="https://github.com/nexios-labs/voltar">Voltar</a></strong>. I am also actively building an open-source community to foster collaboration and innovation in software development.
 </p>
 
 ## Nexios: A Modern Python Framework
@@ -73,6 +73,8 @@ def home(req, res):
 ## Feature Project 
 - [Nexios](https://github.com/nexios-labs/Nexios) Nexios is a lightweight, high-performance ASGI web framework for Python—built for speed, simplicity, and flexibility. Inspired by Express.js, Nexios lets you build APIs fast, with first-class async support, custom auth backends, and zero boilerplate. Perfect for devs who want full control without the Django overhead.
 - [Nexios Genrics](https://github.com/nexios-labs/nexios-generics) NexiosGeneric is a class-based CRUD wrapper for Nexios, combining the power of Pydantic and Tortoise ORM. It simplifies building async APIs with automatic serialization, validation, and database operations—ideal for fast, scalable RESTful endpoints.
+
+- [Voltar](https://github.com/nexios-labs/voltar)Voltar is a Python library designed for data validation with simplicity and transparency in mind. Inspired by Zod, Voltar allows developers to define schema-driven data validation without relying on hidden magic or complex patterns. It combines Python's type hints with explicit validation logic, ensuring clear, maintainable, and highly customizable validation rules. Whether you're working with input from APIs, forms, or databases, Voltar helps you validate and transform data quickly, ensuring your application can handle invalid input gracefully.
 
 
 
