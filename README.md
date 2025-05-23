@@ -80,9 +80,9 @@ def home(req, res):
 
 📝 Latest from Medium
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time WebSockets with Nexios &lpar;Building a Gossip Chat App in Python&rpar;](https://medium.com/@techwithdunamix/real-time-websockets-with-nexios-building-a-gossip-chat-app-in-python-ccf9c4441697?source=rss-ff2d4ff34b41------2)
 - [Setting up PostgreSQL with Tortoise ORM in Nexios](https://medium.com/@techwithdunamix/setting-up-postgresql-with-tortoise-orm-in-nexios-5cb2a339b719?source=rss-ff2d4ff34b41------2)
 - [Structuring a Nexios Application for Production: A Comprehensive Guide](https://medium.com/@techwithdunamix/structuring-a-nexios-application-for-production-a-comprehensive-guide-74794014fdf7?source=rss-ff2d4ff34b41------2)
 - [Flask vs. Nexios: A Comprehensive Comparison](https://medium.com/@techwithdunamix/flask-vs-nexios-a-comprehensive-comparison-79d10b3a370c?source=rss-ff2d4ff34b41------2)
 - [Authentication in Nexios: Implementing JWT Authentication](https://medium.com/@techwithdunamix/authentication-in-nexios-implementing-jwt-authentication-736f947f71b3?source=rss-ff2d4ff34b41------2)
-- [Building a REST API in Minutes with Nexios](https://medium.com/@techwithdunamix/building-a-rest-api-in-minutes-with-nexios-ca29f3506af1?source=rss-ff2d4ff34b41------2)
 <!-- BLOG-POST-LIST:END -->
