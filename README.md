@@ -1,5 +1,4 @@
 
-Hey!, I am [@dunamix](x.com/mrdunamix) (Chidebele Dunamix).
 
 I am a software Engineer from Nigeria .
 
