@@ -1,8 +1,7 @@
 
 
-I am a software Engineer from Nigeria .
 
-Hey! I’m [@dunamix](https://x.com/mrdunamix) (Chidebele Dunamis), a passionate software engineer from Nigeria.
+Hey 👋! I’m [@dunamix](https://x.com/mrdunamix) (Chidebele Dunamis), a passionate software engineer from Nigeria.
 
 I created [Nexios](https://github.com/nexios-labs/Nexios), [Nexios Generics](https://github.com/nexios-labs/nexios-generics), [Voltar](https://github.com/nexios-labs/voltar), [Formaby](https://github.com/techwithdunamix/formaby), and [asgi\_statik](https://github.com/nexios-labs/statik) and some other project you can find here.
 
