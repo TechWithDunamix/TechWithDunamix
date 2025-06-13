@@ -24,7 +24,7 @@ Started coding at 8 ☺️, and for the last 3+ years, I've been crafting robust
 - [Formaby](https://github.com/techwithdunamix/formaby)  
   Formaby is a platform inspired by Google Forms, designed for creating surveys and collecting feedback with ease. Built with modern web technologies, it allows users to build forms, share links, and analyze responses—perfect for educators, researchers, and teams needing quick feedback solutions.
 
-- [asgi_statik](https://github.com/nexios-labs/asgi-statik)  
+- [asgi_statik](https://github.com/nexios-labs/statik)  
   asgi_statik is a minimal ASGI-compatible static file server. It makes it easy to serve static assets like HTML, CSS, JS, and images in any ASGI app with zero setup. Ideal for microservices, SPAs, or Nexios-based apps needing simple static file delivery.
 
 
