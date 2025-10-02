@@ -6,7 +6,7 @@ Hey 👋! I’m [@dunamix](https://x.com/mrdunamix) (Chidebele Dunamis), a passi
 I created [Nexios](https://github.com/nexios-labs/Nexios), [Nexios Generics](https://github.com/nexios-labs/nexios-generics), [Voltar](https://github.com/nexios-labs/voltar), [Formaby](https://github.com/techwithdunamix/formaby), and [asgi\_statik](https://github.com/nexios-labs/statik) and some other project you can find here.
 
 
-Started coding at 8 ☺️, and for the last 3+ years, I've been crafting robust backend systems—optimized for performance, real-time features, and long-term maintainability.
+Started coding at 8 ☺️, and for the last 4+ years, I've been crafting robust backend systems—optimized for performance, real-time features, and long-term maintainability.
 
 
 
