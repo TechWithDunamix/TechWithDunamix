@@ -46,9 +46,9 @@ def home(req, res):
 
 📝 Latest from Medium
 <!-- BLOG-POST-LIST:START -->
+- [AWS Fargate vs. EC2: The Control Tax vs. The Convenience Tax](https://medium.com/@techwithdunamix/aws-fargate-vs-ec2-the-control-tax-vs-the-convenience-tax-cd6b3a73acf3?source=rss-ff2d4ff34b41------2)
 - [Why I Ditched Flask for FastAPI &lpar;And Never Looked Back&rpar;](https://medium.com/@techwithdunamix/why-i-ditched-flask-for-fastapi-and-never-looked-back-ed4ec8ed88ab?source=rss-ff2d4ff34b41------2)
 - [Deploying Real-Time Applications with Nexios and Docker](https://medium.com/@techwithdunamix/deploying-real-time-applications-with-nexios-and-docker-d01d91624960?source=rss-ff2d4ff34b41------2)
 - [Introducing Nexios: The Simple Yet Powerful Alternative to FastAPI](https://medium.com/@techwithdunamix/introducing-nexios-the-simple-yet-powerful-alternative-to-fastapi-352e4d0ee43d?source=rss-ff2d4ff34b41------2)
 - [Deep Dive: Dependency Injection in Nexios](https://medium.com/@techwithdunamix/deep-dive-dependency-injection-in-nexios-597d171e33b8?source=rss-ff2d4ff34b41------2)
-- [Top 10 Python Backend Frameworks You Should Know in 2025](https://medium.com/@techwithdunamix/top-10-python-backend-frameworks-you-should-know-in-2025-9b9210b812f4?source=rss-ff2d4ff34b41------2)
 <!-- BLOG-POST-LIST:END -->
