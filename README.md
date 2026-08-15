@@ -1,54 +1,5 @@
+Hey 👋! I’m [Dunamix](https://x.com/_dnmx), a software engineer from Nigeria.
 
+I’m the creator of [Sillo](https://sillo.build), a Python web framework that comes with more built-in tools so developers can build faster out of the box.
 
-
-Hey 👋! I’m [@dunamix](https://x.com/mrdunamix) (Chidebele Dunamis), a passionate software engineer from Nigeria.
-
-I created [Nexios](https://github.com/nexios-labs/Nexios), [Nexios Generics](https://github.com/nexios-labs/nexios-generics), [Voltar](https://github.com/nexios-labs/voltar), [Formaby](https://github.com/techwithdunamix/formaby), and [asgi\_statik](https://github.com/nexios-labs/statik) and some other project you can find here.
-
-
-Started coding at 8 ☺️, and for the last 4+ years, I've been crafting robust backend systems—optimized for performance, real-time features, and long-term maintainability.
-
-
-
-## Feature Project
-
-- [Nexios](https://github.com/nexios-labs/Nexios)  
-  Nexios is a lightweight, high-performance ASGI web framework for Python—built for speed, simplicity, and flexibility. Inspired by Express.js, Nexios lets you build APIs fast, with first-class async support, custom auth backends, and zero boilerplate. Perfect for devs who want full control without the Django overhead.
-
-- [Nexios Generics](https://github.com/nexios-labs/nexios-generics)  
-  NexiosGeneric is a class-based CRUD wrapper for Nexios, combining the power of Pydantic and Tortoise ORM. It simplifies building async APIs with automatic serialization, validation, and database operations—ideal for fast, scalable RESTful endpoints.
-
-- [Voltar](https://github.com/nexios-labs/voltar)  
-  Voltar is a Python library designed for data validation with simplicity and transparency in mind. Inspired by Zod, Voltar allows developers to define schema-driven data validation without relying on hidden magic or complex patterns. It combines Python's type hints with explicit validation logic, ensuring clear, maintainable, and highly customizable validation rules.
-
-- [Formaby](https://github.com/techwithdunamix/formaby)  
-  Formaby is a platform inspired by Google Forms, designed for creating surveys and collecting feedback with ease. Built with modern web technologies, it allows users to build forms, share links, and analyze responses—perfect for educators, researchers, and teams needing quick feedback solutions.
-
-- [asgi_statik](https://github.com/nexios-labs/statik)  
-  asgi_statik is a minimal ASGI-compatible static file server. It makes it easy to serve static assets like HTML, CSS, JS, and images in any ASGI app with zero setup. Ideal for microservices, SPAs, or Nexios-based apps needing simple static file delivery.
-
-
-Since we are here why not talk about nexios 
-
-### Quick Example
-```python
-from nexios import NexiosApp
-
-app = NexiosApp()
-
-@app.route('/')
-def home(req, res):
-    return res.json({'message': 'Welcome to Nexios!'})
-
-```
-
-
-
-📝 Latest from Medium
-<!-- BLOG-POST-LIST:START -->
-- [AWS Fargate vs. EC2: The Control Tax vs. The Convenience Tax](https://medium.com/@techwithdunamix/aws-fargate-vs-ec2-the-control-tax-vs-the-convenience-tax-cd6b3a73acf3?source=rss-ff2d4ff34b41------2)
-- [Why I Ditched Flask for FastAPI &lpar;And Never Looked Back&rpar;](https://medium.com/@techwithdunamix/why-i-ditched-flask-for-fastapi-and-never-looked-back-ed4ec8ed88ab?source=rss-ff2d4ff34b41------2)
-- [Deploying Real-Time Applications with Nexios and Docker](https://medium.com/@techwithdunamix/deploying-real-time-applications-with-nexios-and-docker-d01d91624960?source=rss-ff2d4ff34b41------2)
-- [Introducing Nexios: The Simple Yet Powerful Alternative to FastAPI](https://medium.com/@techwithdunamix/introducing-nexios-the-simple-yet-powerful-alternative-to-fastapi-352e4d0ee43d?source=rss-ff2d4ff34b41------2)
-- [Deep Dive: Dependency Injection in Nexios](https://medium.com/@techwithdunamix/deep-dive-dependency-injection-in-nexios-597d171e33b8?source=rss-ff2d4ff34b41------2)
-<!-- BLOG-POST-LIST:END -->
+I’ve also built [Nexios](https://github.com/nexios-labs/Nexios), [Nexios Generics](https://github.com/nexios-labs/nexios-generics), [Voltar](https://github.com/nexios-labs/voltar), [Formaby](https://github.com/techwithdunamix/formaby), [asgi_statik](https://github.com/nexios-labs/statik), and a few other projects you can find here.
