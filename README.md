@@ -1,4 +1,4 @@
-Hey 👋! I’m [Dunamix](https://x.com/_dnmx), a software engineer from Nigeria.
+Hey 👋! I’m [Dunamix](https://x.com/_dnmx), a software engineer from Nigeria 🇳🇬.
 
 I’m the creator of [Sillo](https://sillo.build), a Python web framework that comes with more built-in tools so developers can build faster out of the box.
 
